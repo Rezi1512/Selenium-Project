@@ -1,0 +1,11 @@
+[INFO ] 2022-02-16 23:32:45.034 [main] TC04LogInFacebook - Connect with friends and the world around you on Facebook.
+[INFO ] 2022-02-16 23:36:05.489 [main] TC04LogInFacebook - Connect with friends and the world around you on Facebook.
+[INFO ] 2022-02-16 23:37:58.695 [main] TC04LogInFacebook - Connect with friends and the world around you on Facebook.
+[INFO ] 2022-02-16 23:39:17.430 [main] TC04LogInFacebook - Connect with friends and the world around you on Facebook.
+[INFO ] 2022-02-16 23:40:00.477 [main] TC04LogInFacebook - Connect with friends and the world around you on Facebook.
+[INFO ] 2022-02-16 23:44:06.699 [main] TC02Flights - Verify Page Results
+[INFO ] 2022-02-16 23:44:16.972 [main] TC02Flights - Verify Apply Filters
+[INFO ] 2022-02-16 23:56:29.448 [main] TC01MainPage - Verify URL
+[INFO ] 2022-02-16 23:56:35.116 [main] TC01MainPage - Open URL
+[INFO ] 2022-02-16 23:56:35.128 [main] TC01MainPage - Verification Successful - The correct title is displayed on the web page.
+[INFO ] 2022-02-16 23:56:35.235 [main] TC01MainPage - Verify one-way flights
